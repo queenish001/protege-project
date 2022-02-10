@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: yellow;
+}
+
+.heading{
+    font-size: 50px;
+    text-align: center;
+}
+.table{
+    color: white;
+}
