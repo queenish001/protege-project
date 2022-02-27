@@ -1,0 +1,9 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+  "fullName": "Crypto_nish",
+  "username": "Crypto_nick",
+  "email": "nile@gmail.com",
+  "password": "crpProj"
+}
